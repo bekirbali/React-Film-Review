@@ -1,6 +1,4 @@
 import styles from "./Reviews.module.scss";
-import { MdStarRate } from "react-icons/md";
-import { useState } from "react";
 import React from "react";
 
 import StarRatingComponent from "react-star-rating-component";

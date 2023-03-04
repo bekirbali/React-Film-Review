@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.8;
+  h1 {
+    color: rgb(1, 107, 107);
+    font-weight: bold;
+    letter-spacing: 0.3rem;
+  }
+  p {
+    color: rgb(16, 20, 94);
+  }
+  .tag {
+    color: rgb(114, 6, 6);
+    font-size: 1.1rem;
+  }
+  .rate {
+    display: flex;
+    padding: 0.5rem;
+    gap: 1rem;
+    font-size: 2rem;
+    p {
+      margin-top: 0.5rem;
+      font-size: 1.5rem;
+    }
+  }
+}

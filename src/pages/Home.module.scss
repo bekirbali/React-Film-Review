@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+
+  .review {
+    background-color: #bebe;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    min-height: 20rem;
+    box-shadow: 0.2rem 0.3rem 0.8rem 0.1rem rgba($color: #004b91, $alpha: 0.5);
+  }
+}

@@ -1,0 +1,16 @@
+.tabContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 0.51rem;
+  button {
+    background: #bebe;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.51rem;
+  }
+  .active {
+    background-color: rgb(1, 107, 107);
+    color: white;
+  }
+}
